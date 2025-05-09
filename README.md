@@ -1,2 +1,7 @@
-# System-Development
-開発実習のりぽじとりい
+# System Development
+**システム開発のりぽじとりい**
+
+---
+
+>[!important] 
+>***必要かわからんから適当にクローズするかも***
